@@ -1,0 +1,294 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container {
+    width: 1100px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+header>.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav>ul {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    list-style: none;
+}
+
+header {
+    padding: 24px 0;
+}
+
+nav>ul a {
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 2px;
+    text-align: left;
+    color: black;
+}
+
+
+
+.NET {
+    color: red;
+}
+
+
+.knopka>button {
+    padding: 12px 24px;
+    border-radius: 8px;
+    border: 2px solid #DE2E54;
+    color: #DE2E54;
+    background: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.kusr{
+    padding-bottom: 200px;
+}
+
+
+.kartina {
+    background-image: url(./assets/icon/image\ 4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding-top: 50px;
+}
+
+
+.kartina>.container {
+    display: flex;
+    align-items: center;
+    gap: 199px;
+}
+
+
+
+.p-chun>h1 {
+    margin-bottom: 15.31;
+    font-family: Open Sans Condensed;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 43px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+.p-chun>p {
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: aliceblue;
+}
+
+
+
+.p-chun>button {
+    background: #DE2E54CC;
+    padding: 12px 24px;
+    border-radius: 8px;
+    color: whitesmoke;
+}
+
+
+.musr {
+    display: flex;
+    align-items: center;
+    gap: 64px;
+    margin-top: 80px;
+}
+
+.musr h1 {
+    font-family: Open Sans Condensed;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+.musr p{
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+
+
+.container h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 540px;
+    height: 331px;
+    padding: 28px 40px 52px 40px;
+    background-color: whitesmoke;
+    row-gap: 14px;
+}
+
+
+
+form>input{
+    width: 460px;
+    height: 39.11px;    
+    padding-left: 32px;
+    border-radius: 5px;
+    border: none;
+    outline: none;    
+}
+
+
+
+form>input:focus{
+    outline: 1px solid purple ;
+}
+
+
+
+form>input::placeholder{
+    font-family:Poppins;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: 0.25px;
+    text-align: left;
+}
+
+
+form>button{
+    width: 460px;
+    height: 39.11px;  
+    background: rgb(119, 255, 119);
+    border-radius: 2px;
+    border: #373535;
+}
+
+.SHONSHI{
+    background-color: aquamarine;
+    position: relative;
+    padding-top: 250px;
+}
+
+
+
+.box{
+    display: flex;
+    align-items: center;
+    gap: 62px;
+    justify-content: center;
+    position: absolute;
+    width: 100%;
+    top:-140px;
+}
+.box2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 64px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container {
+    width: 1100px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+footer>.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav>ul {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    list-style: none;
+}
+
+footer {
+    padding: 24px 0;
+    background-color: rgb(52, 48, 48);
+}
+
+nav>ul a {
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 2px;
+    text-align: left;
+    color:white;
+}
+
+
+
+.NET {
+    color: red;
+}
+
+
